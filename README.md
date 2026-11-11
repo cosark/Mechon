@@ -76,6 +76,10 @@ make run                                       # then open http://localhost:8080
 > [!WARNING]
 > Mechon is in **preview**. Every [milestone](docs/spec-v0.md#11-build-order) is built and tested end to end, including a suite of isolation attacks that must all fail, but it has not run in production yet. Next up: a CLI, AI agent templates and the first release.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Mechon/)
+
 ## Contributing
 
 Run a bot host, or want to? [Open an issue](https://github.com/jub0t/mechon/issues) with what your panel does badly today. Want to write code? The [spec](docs/spec-v0.md) and the [decision log](docs/decisions.md) explain what is being built and why.
